@@ -5,5 +5,5 @@ This collection doesn't necessarily include papers I have read thoroughly or hav
 
 **Deep Learning**
 
-[Why RNNs find it difficult to learn long term dependencies.](http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf)
-[Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
+1. [Why RNNs find it difficult to learn long term dependencies.](http://www-dsi.ing.unifi.it/~paolo/ps/tnn-94-gradient.pdf)
+2. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
